@@ -1,3 +1,8 @@
+//OK. O.Aktunc
+//Use more descriptive variable names
+//first instead of f, largest instead of big
+
+
 //Neli Romero
 //EG 1305-Spring 2015
 //Assignment 3 Program 1
