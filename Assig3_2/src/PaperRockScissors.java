@@ -1,3 +1,5 @@
+//OK. O.Aktunc
+
 //Neli Romero
 //EG 1305-Spring 2015
 //Assignment 3 Program 2 
