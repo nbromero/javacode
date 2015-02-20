@@ -1,3 +1,5 @@
+//OK. O.Aktunc
+
 //Neli Romero
 //EG 1305-Spring 2015
 // Program 1
